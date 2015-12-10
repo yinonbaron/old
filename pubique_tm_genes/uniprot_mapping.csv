@@ -1,0 +1,115 @@
+index	Protein names	Gene names
+WP_000128491	2-nitroimidazole transporter	nimT
+WP_000964131	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13) (UDP-MurNAc-pentapeptide phosphotransferase)	mraY
+WP_000685029	Ammonia channel (Ammonia transporter)	amtB
+WP_000157266	Protein transport protein HofC homolog	hofC
+WP_000178154	Type 4 prepilin-like proteins leader peptide-processing enzyme [Includes: Leader peptidase (EC 3.4.23.43) (Prepilin peptidase); N-methyltransferase (EC 2.1.1.-)]	gspO
+WP_001295267	Putative sulfoquinovose importer	yihO
+WP_000204658	Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)	lgt
+WP_000135625	ATP synthase subunit a (ATP synthase F0 sector subunit a) (F-ATPase subunit 6)	atpB
+WP_000179819	Cytochrome bo(3) ubiquinol oxidase subunit 3 (Cytochrome o ubiquinol oxidase subunit 3) (Cytochrome o subunit 3) (Oxidase bo(3) subunit 3) (Ubiquinol oxidase chain C) (Ubiquinol oxidase polypeptide III) (Ubiquinol oxidase subunit 3)	cyoC
+WP_000971336	Protoheme IX farnesyltransferase (EC 2.5.1.-) (Heme B farnesyltransferase) (Heme O synthase)	cyoE
+WP_000902780	Low-affinity inorganic phosphate transporter 1	pitA
+WP_000732240	Inner membrane protein YqjF	yqjF
+WP_000192349	Fe(3+) ions import ATP-binding protein FbpC (EC 3.6.3.30)	fbpC
+WP_000083372	Lipoprotein signal peptidase (EC 3.4.23.36) (Prolipoprotein signal peptidase) (Signal peptidase II) (SPase II)	lspA
+WP_001300352	Glutamate synthase [NADPH] large chain (EC 1.4.1.13) (Glutamate synthase subunit alpha) (GLTS alpha chain) (NADPH-GOGAT)	gltB
+WP_001118476	Chaperone protein DnaJ (HSP40) (Heat shock protein J)	dnaJ
+WP_000012163	Guanine/hypoxanthine permease GhxQ	ghxQ
+WP_001196238	Uncharacterized membrane protein YigM	yigM
+WP_000573945	Cation efflux system protein CusA	cusA
+WP_001100469	Inner membrane protein YhhQ	yhhQ
+WP_001097895	Trk system potassium uptake protein TrkG	trkG
+WP_000098429	Protein AmpG	ampG
+WP_001295424	Uridine kinase (EC 2.7.1.48) (Cytidine monophosphokinase) (Uridine monophosphokinase)	udk
+WP_000512372	Ethanolamine utilization protein EutH (Putative ethanolamine transporter)	eutH
+WP_000741620	Phosphate transport system permease protein PstC	pstC
+WP_001252058	Maltose transport system permease protein MalG	malG
+WP_001326926	Protein AraJ	araJ
+WP_000982447	Cytochrome c-type biogenesis protein CcmF	ccmF
+WP_000907387	Phage shock protein C	pspC
+WP_000375136	Modulator of FtsH protease YccA	yccA
+WP_000885033	UPF0056 inner membrane protein MarC	marC
+WP_001287454	Inner membrane protein YqaA	yqaA
+WP_000445533	Paraquat-inducible protein B	pqiB
+WP_001175728	Sodium/pantothenate symporter (Pantothenate permease)	panF
+WP_000076967	DNA translocase FtsK	ftsK
+WP_001267448	UPF0716 protein FxsA (Suppressor of F exclusion of phage T7)	fxsA
+WP_001050683	Lipid II flippase MurJ (Peptidoglycan biosynthesis protein MurJ)	murJ
+WP_000853021	Apolipoprotein N-acyltransferase (ALP N-acyltransferase) (EC 2.3.1.-) (Copper homeostasis protein CutE)	lnt
+WP_000171710	Homoserine/homoserine lactone efflux protein	rhtB
+WP_000114984	Peptide deformylase (PDF) (EC 3.5.1.88) (Polypeptide deformylase)	def
+WP_000917883	Ribonuclease HI (RNase HI) (EC 3.1.26.4) (Ribonuclease H) (RNase H)	rnhA
+WP_000378250	Membrane protein insertase YidC (Foldase YidC) (Inner membrane protein YidC) (Membrane integrase YidC) (Oxa1Ec)	yidC
+WP_000077805	Enterobactin synthase component F (EC 2.7.7.-) (Enterochelin synthase F) (Serine-activating enzyme) (Seryl-AMP ligase)	entF
+WP_001025322	Arginine--tRNA ligase (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS)	argS
+WP_001225124	Cellulose synthase operon protein C	bcsC
+WP_001050960	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33) (UDP-GlcNAc:undecaprenyl-phosphate GlcNAc-1-phosphate transferase) (Undecaprenyl-phosphate GlcNAc-1-phosphate transferase)	wecA
+WP_000014036	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2) (Nicotinamide nucleotide transhydrogenase subunit beta) (Pyridine nucleotide transhydrogenase subunit beta)	pntB
+WP_000527844	Biopolymer transport protein ExbB	exbB
+WP_001036475	Inner membrane protein YbhI	ybhI
+WP_000454701	UPF0053 protein YegH	yegH
+WP_001295111	High-affinity branched-chain amino acid transport system permease protein LivH (LIV-I protein H)	livH
+WP_000484048	Probable diguanylate cyclase AdrA (DGC) (EC 2.7.7.65)	adrA
+WP_001041786	Enterobactin exporter EntS (Protein p43)	entS
+WP_000572177	sn-glycerol-3-phosphate transport system permease protein UgpE	ugpE
+WP_000380843	Alpha-glucosidase YihQ (EC 3.2.1.20)	yihQ
+WP_001070439	Multidrug transporter EmrE (Efflux-multidrug resistance protein EmrE) (Ethidium resistance protein) (Methyl viologen resistance protein C)	emrE
+WP_001275207	Multidrug resistance protein MdtO	mdtO
+WP_000852686	Sulfate transport system permease protein CysW	cysW
+WP_000020941	Glutamate/aspartate transport system permease protein GltJ	gltJ
+WP_000043761	Probable diguanylate cyclase YegE (DGC) (EC 2.7.7.65)	yegE
+WP_001295561	Regulator of sigma-E protease RseP (EC 3.4.24.-) (S2P endopeptidase) (Site-2 protease RseP) (S2P protease RseP) (Site-2-type intramembrane protease)	rseP
+WP_000735412	Sensor protein PhoQ (EC 2.7.13.3) (EC 3.1.3.-) (Sensor histidine protein kinase/phosphatase PhoQ)	phoQ
+WP_001393629	Probable S-methylmethionine permease	mmuP
+WP_000182053	UPF0324 inner membrane protein YeiH	yeiH
+WP_000188144	Macrolide export ATP-binding/permease protein MacB (EC 3.6.3.-)	macB
+WP_000135181	DNA replication terminus site-binding protein (Ter-binding protein)	tus
+WP_000978651	Biodegradative arginine decarboxylase (ADC) (EC 4.1.1.19)	adiA
+WP_000860444	Uncharacterized protein YaiP	yaiP
+WP_000062997	NADH-quinone oxidoreductase subunit A (EC 1.6.5.11) (NADH dehydrogenase I subunit A) (NDH-1 subunit A) (NUO1)	nuoA
+WP_001311024	Hydrogenase-4 component C (EC 1.-.-.-)	hyfC
+WP_000393511	NADH-quinone oxidoreductase subunit J (EC 1.6.5.11) (NADH dehydrogenase I subunit J) (NDH-1 subunit J) (NUO10)	nuoJ
+WP_000612644	NADH-quinone oxidoreductase subunit K (EC 1.6.5.11) (NADH dehydrogenase I subunit K) (NDH-1 subunit K) (NUO11)	nuoK
+WP_001234850	Ribosomal small subunit pseudouridine synthase A (EC 5.4.99.19) (16S pseudouridylate 516 synthase) (16S rRNA pseudouridine(516) synthase) (rRNA pseudouridylate synthase A) (rRNA-uridine isomerase A)	rsuA
+WP_001274396	Formate hydrogenlyase subunit 3 (FHL subunit 3) (Hydrogenase-3 component C)	hycC
+WP_000429104	Hydrogenase-4 component D (EC 1.-.-.-)	hyfD
+WP_000191622	Protein BcsG homolog	bcsG
+WP_000890941	Uncharacterized protein YnbB	ynbB
+WP_000154044	Phosphatidylglycerophosphatase A (EC 3.1.3.27) (Phosphatidylglycerolphosphate phosphatase A) (PGP phosphatase A)	pgpA
+WP_000675150	Signal transduction histidine-protein kinase BaeS (EC 2.7.13.3)	baeS
+WP_000545677	Trk system potassium uptake protein TrkH	trkH
+WP_001159065	Glutamine transport system permease protein GlnP	glnP
+WP_001294600	D-methionine transport system permease protein MetI	metI
+WP_001296134	Probable manganese efflux pump MntP	mntP
+WP_000109943	Sec-independent protein translocase protein TatC	tatC
+WP_000934822	Protein translocase subunit SecD	secD
+WP_000133044	Translation initiation factor IF-2	infB
+WP_000076332	Ribonuclease R (RNase R) (EC 3.1.13.1) (Protein VacB)	rnr
+WP_000681354	Na(+)/H(+) antiporter NhaA (Sodium/proton antiporter NhaA)	nhaA
+WP_000628576	Inner membrane ABC transporter ATP-binding protein YddA (CDS102)	yddA
+WP_001295344	Ribosomal protein S12 methylthiotransferase accessory factor YcaO	ycaO
+WP_000019655	Putative amino-acid ABC transporter permease protein YhdX	yhdX
+WP_000250274	UPF0073 inner membrane protein YqfA	yqfA
+WP_001272796	Probable glycerol-3-phosphate acyltransferase (G3P acyltransferase) (GPAT) (EC 2.3.1.15) (EC 2.3.1.n5) (Lysophosphatidic acid synthase) (LPA synthase)	plsY
+WP_001118861	Protein translocase subunit SecY	secY
+WP_001333829	Leader peptidase PppA	pppA
+WP_001032689	Dipeptide permease D	dtpD
+WP_000339954	Uncharacterized protein YadD	yadD
+WP_001271242	Probable cystine transporter YijE	yijE
+WP_000081197	Inner membrane transport protein YdiN	ydiN
+WP_000443067	Tryptophan synthase alpha chain (EC 4.2.1.20)	trpA
+WP_000698951	Nuclease SbcCD subunit C	sbcC
+WP_000104441	Inner membrane permease YgbN	ygbN
+WP_000339104	Protein RarD	rarD
+WP_000965522	Histidine transport system permease protein HisQ	hisQ
+WP_000774988	Glycine betaine/L-proline transport system permease protein ProW	proW
+WP_000638031	Probable 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE (L-Ara4N-phosphoundecaprenol flippase subunit ArnE) (Undecaprenyl phosphate-aminoarabinose flippase subunit ArnE)	arnE
+WP_000062973	p-aminobenzoyl-glutamate transport protein (PABA-GLU transport protein)	abgT
+WP_000899054	Bifunctional protein Aas [Includes: 2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40) (2-acyl-GPE acyltransferase) (Acyl-[acyl-carrier-protein]--phospholipid O-acyltransferase); Acyl-[acyl-carrier-protein] synthetase (EC 6.2.1.20) (Acyl-ACP synthetase) (Long-chain-fatty-acid--[acyl-carrier-protein] ligase)]	aas
+WP_000108330	Thermoresistant gluconokinase (EC 2.7.1.12) (Gluconate kinase 2)	gntK
+WP_001251304	Inner membrane ABC transporter permease protein YdcU	ydcU
+WP_000806411	Inner membrane protein YijD	yijD
+WP_000196054	L-xylulose/3-keto-L-gulonate kinase (L-xylulokinase) (EC 2.7.1.-) (EC 2.7.1.53) (3-dehydro-L-gulonate kinase)	lyx
+WP_000457206	Leucine efflux protein	leuE
+WP_001267253	Moderate conductance mechanosensitive channel YbiO	ybiO
