@@ -37,9 +37,9 @@ for i in range(0,len(gene_names)):
         continue;
     if type(record['Iteration_hits'].values()[0]) == list:
 #        continue;
+        tmp = np.empty([4,len(record['Iteration_hits'].values()[0])],dtype='object')            
         for x,hit in enumerate(record['Iteration_hits'].values()[0]):
-            tmp = np.empty([4,len(record['Iteration_hits'].values()[0])],dtype='object')            
-            tmp[:,x] = get_record_info(hit,record['Iteration_query-len'])
+            tmp[:,x] = get_record_info(hit,record['Iteration_query-len']).T
             best_hit = tmp[1,:] == max(tmp[1,:])
             align_df['Match'][gene_names[i]] = tmp[0,best_hit][0]
             align_df['Coverage'][gene_names[i]] = tmp[1,best_hit][0]
@@ -68,5 +68,7 @@ for i in range(0,len(gene_names)):
 #            align_df['Identity'][gene_names[i]] = float(record['Iteration_hits']['Hit']['Hit_hsps']['Hsp']['Hsp_identity'])/(end-start+1)
 #            align_df['E-val'][gene_names[i]] = float(record['Iteration_hits']['Hit']['Hit_hsps']['Hsp']['Hsp_evalue'])
 
+uni_df = pd.read_csv('uniprot_mapping.csv',sep='\t',index_col=2)
+merged_df = align_df.merge(uni_df, left_on= align_df['Match'],right_index=True)
+tm_merged_df = merged_df.join(tmhmm,how='inner')
 
-            
